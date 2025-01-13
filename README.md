@@ -1,2 +1,5 @@
 # MLP_crowd_flow_prediction
-predict the crowd flow with using MLP
+## Introducton
+### predict the crowd flow with using MLP and compare with the LSTM model build with Keras
+
+
