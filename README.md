@@ -22,7 +22,7 @@
 ## Analyzing Trends
 - Counted the number of people passing through each grid point in `grid_total.csv` over 75 days.
 - Generated a heatmap to display and identify the five grids with the highest traffic:
-  - ![image] 
+  - ![image](https://github.com/Po-Hung0804/MLP_crowd_flow_prediction/blob/main/heatmap.png)
   - `(80,95)`, `(80,92)`, `(80,96)`, `(79,93)`, `(79,92)`
 - Analyzed these five grids individually and selected three for prediction.
 
