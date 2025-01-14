@@ -50,3 +50,9 @@ Chosen grids:
 | `(80,95)` | 1000   | 8.16  | 130.24 | 18.77% |
 | `(80,96)` | 1000   | 7.18  | 98.96  | 22.12% |
 | `(79,93)` | 1000   | 9.23  | 182.94 | 27.65% |
+
+---
+## Conclusion
+1. Custom MLP models show lower performance, with MAPE around 40%, compared to LSTM models at 20%-30%.
+2. The selected grids `(80,95)`, `(80,96)`, and `(79,93)` performed well, with `(80,95)` achieving the best results, proving the effectiveness of the selection strategy.
+3. Grid `(80,95)` exhibits a seven-day cycle in population distribution, likely due to lower weekend traffic.
